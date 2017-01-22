@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_f7c2e1c3e1697e405deb77efd869b140145d560a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_85bdfc7f7296ff82abf2f80799c587d46335c67f.jar" />
+    </item>
+    <item
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_79a265d8d042713008b0ea84b4eeb89ea0b45a51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\pre-dexed\debug\butterknife-5.1.1_4e4ce574f3d72998b594448756183a3048e0c38d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_ba6be0cbe6f16fd6879b42d7e9cd02d2a70a6a1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_93715c13e33f86a81d300b9ea603f4baf4f83159.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Administrator\Desktop\OtherView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_09510886aafeb61d14b7c2f958115ff29f057290.jar" />
+    </item>
+
+</items>
